@@ -15,17 +15,17 @@ The dashboard consists of three pages:
 ### 1. Dashboard (Home)
 - The main page showing overall sales performance.
 - Displays key KPIs such as total sales, total quantity, average price, and transaction count.
-- Users can filter by product categories and regions.
+- Users can filter by product categories and regions.<br><br>
 
 <img width="897" height="502" alt="page 1" src="https://github.com/user-attachments/assets/f74349da-8bf6-4e6d-892d-59641e2a164d" />
 
 
 ### 2. MTD Report (Month-To-Date)
 - Shows sales performance from the beginning of the current month until today.
-- Monthly trend analysis is included.
+- Monthly trend analysis is included.<br><br>
 
   
-<img width="901" height="508" alt="page 2" src="https://github.com/user-attachments/assets/b3fdb839-c0cb-423a-90ac-e233470eb284" />
+<img width="901" height="508" alt="page 2" src="https://github.com/user-attachments/assets/b3fdb839-c0cb-423a-90ac-e233470eb284" /><br><br>
 
 <img width="904" height="505" alt="ek1" src="https://github.com/user-attachments/assets/21a068a2-07ef-47bd-90fe-4db4eed66226" />
 
@@ -34,9 +34,9 @@ The dashboard consists of three pages:
 ### 3. Same Period Last Year Report (SPLY)
 - Compares the current period with the same period last year.
 - DAX function used: `SAMEPERIODLASTYEAR`.
-- Allows analysis of annual growth or decline trends.
+- Allows analysis of annual growth or decline trends.<br><br>
 
-<img width="899" height="505" alt="page 3" src="https://github.com/user-attachments/assets/017be35f-96c5-48b5-8d9b-780563cddc5f" />
+<img width="899" height="505" alt="page 3" src="https://github.com/user-attachments/assets/017be35f-96c5-48b5-8d9b-780563cddc5f" /><br><br>
 
 <img width="905" height="508" alt="ek2" src="https://github.com/user-attachments/assets/225f8338-e854-4b51-9a72-114a7d8213d2" />
 
