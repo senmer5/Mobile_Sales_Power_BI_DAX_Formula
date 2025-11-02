@@ -17,15 +17,28 @@ The dashboard consists of three pages:
 - Displays key KPIs such as total sales, total quantity, average price, and transaction count.
 - Users can filter by product categories and regions.
 
+<img width="897" height="502" alt="page 1" src="https://github.com/user-attachments/assets/f74349da-8bf6-4e6d-892d-59641e2a164d" />
+
+
 ### 2. MTD Report (Month-To-Date)
 - Shows sales performance from the beginning of the current month until today.
 - Monthly trend analysis is included.
-- DAX functions used: `DATESMTD`, `CALCULATE`, `SUM`.
+
+  
+<img width="901" height="508" alt="page 2" src="https://github.com/user-attachments/assets/b3fdb839-c0cb-423a-90ac-e233470eb284" />
+
+<img width="904" height="505" alt="ek1" src="https://github.com/user-attachments/assets/21a068a2-07ef-47bd-90fe-4db4eed66226" />
+
+
 
 ### 3. Same Period Last Year Report (SPLY)
 - Compares the current period with the same period last year.
 - DAX function used: `SAMEPERIODLASTYEAR`.
 - Allows analysis of annual growth or decline trends.
+
+<img width="899" height="505" alt="page 3" src="https://github.com/user-attachments/assets/017be35f-96c5-48b5-8d9b-780563cddc5f" />
+
+<img width="905" height="508" alt="ek2" src="https://github.com/user-attachments/assets/225f8338-e854-4b51-9a72-114a7d8213d2" />
 
 ---
 
@@ -75,8 +88,9 @@ Time-based DAX functions were used in the dashboard:
 - Dashboard design and mobile-friendly layout  
 - Configuring visual interactions (Edit Interactions)  
 - Time-based analysis using MTD, QTD, YTD, SPLY  
-- Publishing and sharing the dashboard on Power BI Service  
-
+- Publishing and sharing the dashboard on Power BI Service
+- Color Palette: Consistent according to sales categories
+- Focus: Allows users to view key sales metrics at a glance 
 ---
 
 ## Visualizations Used
@@ -89,13 +103,6 @@ Time-based DAX functions were used in the dashboard:
 
 ---
 
-## Design Features
-
-- **Color Palette:** Consistent according to sales categories  
-- **Layout:** Responsive design for both desktop and mobile  
-- **Focus:** Allows users to view key sales metrics at a glance  
-
----
 
 ## Key Takeaways
 
@@ -104,7 +111,7 @@ By completing this project, I learned to:
 - Navigate and use the Power BI interface effectively  
 - Model data using DAX formulas  
 - Create comparative time-based analyses  
-- Design interactive and mobile-friendly dashboards  
+- Design interactive and friendly dashboards  
 - Publish dashboards to Power BI Service  
 
 ---
