@@ -1,6 +1,6 @@
 # Mobile_Sales_Power_BI_DAX_Formula
 
-## Project Overview
+## 🔷 Project Overview
 
 This project is an end-to-end example for beginners learning Power BI.  
 An interactive and mobile-friendly Sales Analysis Dashboard was created using DAX formulas.  
@@ -8,7 +8,7 @@ Through this project, users can gain hands-on experience with data modeling, cre
 
 ---
 
-## Project Structure
+## 🔷 Project Structure
 
 The dashboard consists of three pages:
 
@@ -42,7 +42,7 @@ The dashboard consists of three pages:
 
 ---
 
-## DAX Measures / KPIs Used
+## 🔷 DAX Measures / KPIs Used
 
 | Measure Name | Description |
 |-------------|-------------|
@@ -57,7 +57,7 @@ The dashboard consists of three pages:
 
 ---
 
-## Time-Based Performance Analysis
+## 🔷 Time-Based Performance Analysis
 
 Time-based DAX functions were used in the dashboard:
 
@@ -79,7 +79,7 @@ Time-based DAX functions were used in the dashboard:
 
 ---
 
-## Skills and Topics Learned
+## 🔷 Skills and Topics Learned
 
 - Understanding the data and analysis objectives  
 - Creating a custom calendar table for time-based analysis  
@@ -93,7 +93,7 @@ Time-based DAX functions were used in the dashboard:
 - Focus: Allows users to view key sales metrics at a glance 
 ---
 
-## Visualizations Used
+## 🔷 Visualizations Used
 
 - Bar Chart  
 - Line Chart  
@@ -104,7 +104,7 @@ Time-based DAX functions were used in the dashboard:
 ---
 
 
-## Key Takeaways
+## 🔷 Key Takeaways
 
 By completing this project, I learned to:
 
@@ -116,6 +116,6 @@ By completing this project, I learned to:
 
 ---
 
-## Project File
-
-🔗  https://app.powerbi.com/view?r=eyJrIjoiZmI1YzEwMTYtYmYxNS00ZGQ4LWEzNzMtNTNlNTk4ZTY5NDRlIiwidCI6IjNlMTE2YjM1LWRkMjgtNDY2ZS1hZjdhLWFlZjZkZDMwYzY0MCIsImMiOjl9
+## 🔗 Project File
+- **A sample Power BI project** is available for reference: [Open in Power BI](https://app.powerbi.com/view?r=eyJrIjoiZmI1YzEwMTYtYmYxNS00ZGQ4LWEzNzMtNTNlNTk4ZTY5NDRlIiwidCI6IjNlMTE2YjM1LWRkMjgtNDY2ZS1hZjdhLWFlZjZkZDMwYzY0MCIsImMiOjl9)
+  
